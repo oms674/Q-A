@@ -44,7 +44,7 @@ The frontend is designed for an intuitive and seamless experience:
 
    # Search Agent
       Determines if the query is related to Sena.
-      Uses Serper API for web search or scrapes https://sena.services/.
+      Uses Serper API for web search.
 
    # Display Agent
       Formats and presents the search results in a user-friendly format.
